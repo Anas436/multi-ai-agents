@@ -6,6 +6,6 @@ AstraDB is a vector database that provides optimized storage and access for vect
 
 #### References
 1. Hugging Face Link [here](https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2)
-2. Astra DB Link [here](https://www.datastax.com/)
+2. AstraDB Link [here](https://www.datastax.com/)
 3. Groq Link [here](https://groq.com/)
 4. YouTube Link [here](https://www.youtube.com/watch?v=N1FM-PcVXNA&list=WL&index=15&t=232s)
